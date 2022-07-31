@@ -1,6 +1,21 @@
 * {
   box-sizing: border-box;
 }
+.gallery{
+  width: 100vw;
+   display: flex;
+  text-decoration: none;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.text{
+  max-width: 270px;
+}
+
+
+
 
 body {
   margin: 16px;
@@ -12,6 +27,7 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+
 
 input {
   padding: 8px;
