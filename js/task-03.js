@@ -13,7 +13,7 @@ const images = [
   },
 ];
 
-const ulGallery = document.querySelector(".gallery");
+const ulGallery = document.querySelector("    ");
 ulGallery.classList.add("gallery");
 
   const markup = images
